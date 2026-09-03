@@ -1,0 +1,43 @@
+body {
+  background-color: #ebebeb;
+  font-family: sans-serif;
+}
+
+#titulo-web {
+  text-align: center;
+  color: #860000;
+}
+
+#titulo-mobile {
+  text-align: center;
+  color: #001374;
+}
+
+.titulo-secao-web {
+  color: #b00000;
+}
+
+.sub-titulo-web {
+  color: #b32020;
+}
+
+.titulo-secao-mobile {
+  color: #001ca5;
+}
+
+.sub-titulo-mobile {
+  color: #273ca7;
+}
+
+.paragrafo-mobile {
+  color: #475192;
+}
+
+.paragrafo-web {
+  color: #924747;
+}
+
+p {
+  text-align: justify;
+  line-height: 1.6;
+}

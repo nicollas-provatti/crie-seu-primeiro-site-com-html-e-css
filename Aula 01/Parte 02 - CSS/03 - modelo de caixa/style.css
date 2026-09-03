@@ -1,0 +1,32 @@
+.caixa-01 {
+  background-color: rgb(41, 41, 215);
+  color: white;
+  font-family: sans-serif;
+  line-height: 1.5;
+
+  border-width: 2px;
+  border-style: solid;
+  border-color: darkblue;
+
+  padding-top: 20px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+}
+
+.caixa-02 {
+  background-color: rgb(208, 58, 58);
+  color: white;
+  font-family: sans-serif;
+  line-height: 1.5;
+
+  border: 2px solid darkred;
+
+  padding: 20px 40px 20px 40px;
+  margin-top: 100px;
+
+  width: 400px;
+  height: 300px;
+
+  margin: 100px auto 0 auto;
+}
