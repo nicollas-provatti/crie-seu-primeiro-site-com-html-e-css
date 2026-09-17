@@ -1,0 +1,22 @@
+:root {
+  --green: #c5f82a;
+  --white: #fff;
+  --grey-700: #333333;
+  --grey-800: #1f1f1f;
+  --grey-900: #141414;
+}
+
+.light {
+  --green: #a4cf23; 
+  --white: #1f2937; 
+  --grey-700: #e5e7eb;
+  --grey-800: #ffffff; 
+  --grey-900: #f5f5f5; 
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("./assets/fonts/Inter-VariableFont_slnt\,wght.ttf");
+  font-weight: 100 900;
+  font-style: normal;
+}
